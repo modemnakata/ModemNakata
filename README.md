@@ -23,3 +23,15 @@ yKXm0TVwBWVAW6t9Cm0=
 =wEEh
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+---
+
+## Donate
+
+Monero (XMR) — mainnet subaddress:
+
+```
+85ifMryXKt79vSwCojDbFGUd3wM9MrSHUDegKthugb62PNbRv914nDKZzZFS8zBKuwArQTipVgJeoGo8gcYBeZQ4F19Z8im
+```
+
+<img src="monero-donation-qr.avif" width="320" alt="Monero donation QR code (monero: URI)" />
