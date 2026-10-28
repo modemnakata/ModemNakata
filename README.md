@@ -1,33 +1,14 @@
-<div align="center">
-
-# POOP.NET — Point Of Optimal Performance
-
-**mirror node: modemnakata.github.io**
-
-</div>
-
+```
+pub   brainpoolP256r1/CB891ADC6E33A686 2026-04-14 [SC]
+      B88AFA890C04E0F5C61C9F69CB891ADC6E33A686
+uid                 [ultimate] Nakata Modem (133742069) <nakatamodem@disroot.org>
+sub   brainpoolP256r1/68848EEA0B537FB9 2026-04-14 [E]
+```
 ---
-
-### SYSTEM INFO
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-░  NODE: modemnakata                                          ░
-░  UID: 133742069                                             ░
-░  KERNEL: brainpoolP256r1/CB891ADC6E33A686                  ░
-░  STATE: ACTIVE (unstable)                                   ░
-░  UPTIME: 9 months, 3 days, 14 hours, 22 minutes            ░
-░  LAST REBOOT: never (sleep is deprecated)                   ░
-░  LOAD AVG: 0.69 1.33 4.20                                  ░
-░  MEMORY: 8.2GB / 16GB (51% — mostly browser tabs)          ░
-░  SWAP: 2.1GB / 4GB (chrome.exe)                             ░
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-### PGP PUBLIC KEY
-
+### B88A FA89 0C04 E0F5 C61C  9F69 CB89 1ADC 6E33 A686
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 mFMEad35oRMJKyQDAwIIAQEHAgMERluByBPrdtyt8sElShCZs3icwa4simsZZwpe
 SePKvV5AmGtkzUn4NxcfFsYlguj8nvN8p32cYc/rut9xplnrm7QyTmFrYXRhIE1v
 ZGVtICgxMzM3NDIwNjkpIDxuYWthdGFtb2RlbUBkaXNyb290Lm9yZz6IkAQTEwgA
@@ -43,271 +24,309 @@ yKXm0TVwBWVAW6t9Cm0=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-**FINGERPRINT:** `B88A FA89 0C04 E0F5 C61C  9F69 CB89 1ADC 6E33 A686`
+---
+
+<div align="center">
+
+# 🐱 modemnakata.exe has stopped working 🐱
+
+**[🌐 Personal Site → modemnakata.github.io](https://modemnakata.github.io/)**
+
+</div>
 
 ---
 
-### OPEN POSITIONS
+### `whoami`
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  ████████████████████████████████████████████████████████  │
-│  █  REVERSE ENGINEER — MALWARE ANALYST — EXPLOIT DEV      █  │
-│  █  REQUIREMENTS:                                         █  │
-│  █    • MUST SPEAK x86_64 / ARM64 / WASM FLUENTLY         █  │
-│  █    • GHIDRA / IDA PRO / RADARE2 / BINARY NINJA         █  │
-│  █    • COMFORTABLE WITH: ROP / JOP / SROP / COOP         █  │
-│  █    • PGP KEY WITH BRAINPOOL CURVES PREFERRED           █  │
-│  █    • MONERO WALLET FOR PAYMENT (NO KYC)                █  │
-│  █    • WILLING TO WORK IN: RING 0 / RING -3              █  │
-│  █                                                         █  │
-│  █  BENEFITS:                                             █  │
-│  █    • UNLIMITED ZERO-DAYS (BYO)                         █  │
-│  █    • ROOT ACCESS TO PRODUCTION (YOURS)                 █  │
-│  █    • DENTAL: EXTRACT YOUR OWN TEETH                    █  │
-│  █                                                         █  │
-│  █  APPLY: nakatamodem@disroot.org (PGP ONLY)             █  │
-│  ████████████████████████████████████████████████████████  │
-└─────────────────────────────────────────────────────────────┘
+Nakata Modem
+Pronouns: sys/admin, root/root, meow/meow
+Location: /home/nakata/bed (recursive)
+Status: kernel panic (but cute)
+Uptime: since 2026 (allegedly)
+```
+
+### `neofetch --ascii_distro void`
+
+```
+OS: Void Linux (musl, because glibc is for people who shower)
+WM: sway (i3 but with more tears)
+Shell: fish (friendly interactive shell, unlike my social skills)
+Editor: nvim (I exited vim once, it was traumatic)
+Terminal: kitty (meow)
+Browser: firefox + arkenfox user.js (paranoia level: yes)
+Font: JetBrains Mono Nerd Font (ligatures enabled, brain not included)
+```
+
+### `cat /proc/self/status`
+
+```
+Name:		modemnakata
+State:		S (sleeping, dreaming of electric sheep)
+Tgid:		1337
+Ngid:		42069
+Pid:		1337
+PPid:		1 (systemd, my emotional support init)
+Uid:		1000	1000	1000	1000
+Gid:		1000	1000	1000	1000
+FDSize:		256
+Groups:		1000 (users), 999 (wheel), 666 (cult), 1337 (elite), 42 (answer)
+Threads:	1 (single-threaded, like my attention span)
+SigPnd:		0000000000000000
+ShdPnd:		0000000000000000
+SigBlk:		0000000000000000
+SigIgn:		0000000000000000
+SigCgt:		000000018000660b
+CapInh:		0000000000000000
+CapPrm:		0000003fffffffff
+CapEff:		0000003fffffffff
+CapBnd:		0000003fffffffff
+CapAmb:		0000000000000000
+NoNewPrivs:	0
+Seccomp:	2 (strict mode: no fun allowed)
+Cpus_allowed:	f
+Cpus_allowed_list:	0-3
+Mems_allowed:	1
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	42069
+nonvoluntary_ctxt_switches:	1337
+```
+
+### `skills --list --verbose`
+
+```
+LANGUAGES:
+  Rust          ████████████████░░░░  80%  (fearless concurrency, fearful human)
+  Python        ██████████████████░░  90%  (import antigravity; it works)
+  C             ██████████████░░░░░░  70%  (segfault is a lifestyle)
+  Go            ████████████░░░░░░░░  60%  (if err != nil { return err } x 1000)
+  Lua           ██████████░░░░░░░░░░  50%  (for neovim config that breaks weekly)
+  JavaScript    ██████░░░░░░░░░░░░░░  30%  (only when held at gunpoint)
+  Assembly      ████░░░░░░░░░░░░░░░░  20%  (x86_64, ARM64, brainfuck)
+
+SECURITY:
+  Reverse Engineering    ██████████████████░░  90%  (Ghidra is my IDE)
+  Binary Exploitation    ████████████████░░░░  80%  (ROP chains > jewelry chains)
+  Cryptography           █████████████████░░░  85%  (brainpoolP256r1, obviously)
+  Network Security       ███████████████░░░░░  75%  (pcap or it didn't happen)
+  Malware Analysis       ███████████████████░  95%  (I speak PE/ELF/Mach-O fluently)
+  OSINT                  ██████████████░░░░░░  70%  (I know where you live >w<)
+
+SYSTEMS:
+  Linux Internals        ████████████████████ 100%  (I am the kernel now)
+  Containerization       ████████████████░░░░  80%  (docker? podman. k8s? nomad.)
+  Networking             █████████████████░░░  85%  (BGP, WireGuard, carrier pigeons)
+  Embedded               ████████████░░░░░░░░  60%  (STM32, ESP32, toaster firmware)
+```
+
+### `cargo install --list | grep -E "(cute|weird|useless)"`
+
+```
+cowsay-rs          v1.0.0    (moo)
+lolcat-rs          v2.0.0    (rainbow vomit)
+ponysay            v3.0.0    (🦄 friendship is magic)
+nyancat            v1.5.0    (nyan nyan nyan)
+cmatrix            v2.0.0    (wake up, neo)
+sl                 v1.0.0    (steam locomotive, choo choo)
+hollywood          v1.0.0    (hacker typer mode: engaged)
+asciiquarium       v1.0.0    (fishies 🐟)
+cbonsai            v1.3.0    (growing trees in terminal)
+onefetch           v2.18.0   (github stats but pretty)
+bandwhich          v0.22.0   (bandwidth monitor, very nosy)
+btop               v1.3.0    (htop but with more colors)
+du-dust            v1.0.0    (du but rust)
+fd-find            v8.7.0    (find but fast)
+ripgrep            v13.0.0   (grep but rust)
+bat                v0.24.0   (cat but wings)
+exa                v0.10.0   (ls but modern)
+zoxide             v0.9.0    (cd but smart)
+starship           v1.18.0   (prompt but spaceship)
+```
+
+### `systemctl status sanity.service`
+
+```
+● sanity.service - Mental Stability Daemon
+   Loaded: loaded (/etc/systemd/system/sanity.service; disabled; vendor preset: enabled)
+   Active: failed (Result: exit-code) since Mon 2026-01-01 00:00:00 UTC; 9 months ago
+  Process: 420 ExecStart=/usr/bin/brain --maintain-sanity (code=SEGFAULT)
+ Main PID: 420 (code=SEGFAULT, signal=11)
+    CPU: 0ms
+ Memory: 0B
+    CGroup: /system.slice/sanity.service
+             └─420 /usr/bin/brain --maintain-sanity
+
+Jan 01 00:00:00 void systemd[1]: Started Mental Stability Daemon.
+Jan 01 00:00:01 void brain[420]: ERROR: segmentation fault at 0xDEADBEEF
+Jan 01 00:00:01 void brain[420]: PANIC: attempted to allocate fucks, none available
+Jan 01 00:00:01 void systemd[1]: sanity.service: Main process exited, code=SEGFAULT, status=11/SEGFAULT
+Jan 01 00:00:01 void systemd[1]: sanity.service: Failed with result 'exit-code'.
+Jan 01 00:00:01 void systemd[1]: sanity.service: Scheduled restart job, restart counter is at 1337.
+Jan 01 00:00:01 void systemd[1]: Stopped Mental Stability Daemon.
+Jan 01 00:00:01 void systemd[1]: sanity.service: Start request repeated too quickly.
+Jan 01 00:00:01 void systemd[1]: sanity.service: Failed with result 'exit-code'.
+Jan 01 00:00:01 void systemd[1]: Failed to start Mental Stability Daemon.
+```
+
+### `journalctl -u cute.service -f`
+
+```
+-- Logs begin at Mon 2026-01-01 00:00:00 UTC --
+Jan 01 00:00:00 void systemd[1]: Started Cuteness Daemon.
+Jan 01 00:00:01 void cute[69]: INFO: initialized uwu subsystem
+Jan 01 00:00:01 void cute[69]: INFO: loaded nyaa module
+Jan 01 00:00:02 void cute[69]: WARN: detected human nearby, activating :3 mode
+Jan 01 00:00:03 void cute[69]: INFO: tail wag detected (virtual)
+Jan 01 00:00:04 void cute[69]: INFO: purring at 25Hz (therapeutic frequency)
+Jan 01 00:00:05 void cute[69]: DEBUG: headpat request received, processing...
+Jan 01 00:00:06 void cute[69]: SUCCESS: headpat accepted, happiness++ (now: 42069)
+Jan 01 00:00:07 void cute[69]: INFO: emitting heart particles 💕
 ```
 
 ---
 
-### DONATE — Monero (XMR)
+### `ssh -X nakata@modemnakata.github.io`
 
 ```
-ADDRESS:
+The authenticity of host 'modemnakata.github.io (185.199.108.153)' can't be established.
+ED25519 key fingerprint is SHA256:B88AFA890C04E0F5C61C9F69CB891ADC6E33A686.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'modemnakata.github.io' (ED25519) to the list of known hosts.
+nakata@modemnakata.github.io's password: ************
+Last login: $(date) from 127.0.0.1
+
+   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+   █  WELCOME TO MODEMNAKATA'S DIGITAL LAIR  █
+   █  Point Of Optimal Performance           █
+   █  Est. 2026  |  Uptime: 99.999% (lies)   █
+   ▀▀▀▀▀▀▀0▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+[nakata@void ~]$ fortune | cowsay -f tux
+ _________________________________________
+/ There is no place like 127.0.0.1        \
+| (except maybe modemnakata.github.io)    |
+\ ( ͡° ͜ʖ ͡°)                               /
+ -----------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+[nakata@void ~]$ _
+```
+
+---
+
+## 💰 Donate (Monero / XMR)
+
+Mainnet subaddress:
+
+```
 85ifMryXKt79vSwCojDbFGUd3wM9MrSHUDegKthugb62PNbRv914nDKZzZFS8zBKuwArQTipVgJeoGo8gcYBeZQ4F19Z8im
-
-URI:
-monero:85ifMryXKt79vSwCojDbFGUd3wM9MrSHUDegKthugb62PNbRv914nDKZzZFS8zBKuwArQTipVgJeoGo8gcYBeZQ4F19Z8im?tx_description=DONATION%20TO%20MODEMNAKATA
 ```
 
-**QR CODE:**
-```
-████████████████████████████████
-████ ▄▄▄▄▄ █ ▄▄ ▄ ▄▄▄ ▄▄ █ ▄▄▄▄▄ ████
-████ █   █ █▄▄█▄█ ▄▄ █ █ █ █   █ ████
-████ █▄▄▄█ █ ▄▄▄▄▄█▄█ ▄█▄█ █▄▄▄█ ████
-████▄▄▄▄▄▄▄█ ▄ ▄▄▄▄ ▄▄▄ ▄ ▄▄▄▄▄▄▄████
-████▄▄ ▄ ▄ ▄▄▄▄▄▄▄█▄▄▄▄ ▄▄█▄▄ ▄ ▄▄████
-████ ▄▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄ ████
-████ █ █ ▄ ▄▄▄▄▄▄▄▄ ▄▄▄▄▄█ █ █ █ ████
-████ █▄█ ▄▄▄█ ▄ ▄ ▄▄ ▄ ▄ ▄▄ ▄ ▄ ▄ ████
-████▄▄▄▄▄▄▄█ ▄▄▄ ▄▄▄█ ▄▄ ▄▄▄▄▄▄▄████
-████ ▄▄▄▄▄ █▄█▄▄▄▄█▄▄██▄█ ▄▄▄▄▄ ████
-████ █   █ █▄▄▄▄ ▄ ▄▄█ ▄▄ █   █ ████
-████ █▄▄▄█ █ ▄█▄▄▄▄▄█ ▄▄▄ █▄▄▄█ ████
-████▄▄▄▄▄▄▄█▄█▄▄▄▄▄▄█▄▄▄▄▄▄▄▄▄▄████
-████████████████████████████████
-(SCAN WITH MONERO WALLET)
-```
+<details>
+<summary>🔍 Click to reveal QR code (monero: URI)</summary>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=320x320&data=monero%3A85ifMryXKt79vSwCojDbFGUd3wM9MrSHUDegKthugb62PNbRv914nDKZzZFS8zBKuwArQTipVgJeoGo8gcYBeZQ4F19Z8im%3Ftx_description%3DDonation%20to%20modemnakata&color=00ff88&bgcolor=0c0c0c&qzone=1&margin=0" width="320" alt="Monero donation QR code" />
+
+</details>
 
 ---
 
-### NETWORK CONNECTIONS
+### `links --render`
 
-```
-PROTO  LOCAL ADDRESS         FOREIGN ADDRESS       STATE       PID/PROGRAM
-tcp    0.0.0.0:22            0.0.0.0:*             LISTEN      1337/sshd
-tcp    0.0.0.0:443           0.0.0.0:*             LISTEN      420/nginx
-tcp    127.0.0.1:9050        0.0.0.0:*             LISTEN      69/tor
-tcp    127.0.0.1:8080        0.0.0.0:*             LISTEN      42069/gitea
-tcp    192.168.1.69:54321    185.199.108.153:443   ESTABLISHED 1337/git
-tcp    192.168.1.69:31337    45.77.212.134:22      ESTABLISHED 1337/ssh
-tcp    192.168.1.69:1337     104.18.32.69:443      ESTABLISHED 420/browser
-udp    0.0.0.0:5353          0.0.0.0:*                        69/mdns
-udp    127.0.0.1:1337        0.0.0.0:*                        1337/backdoor
-```
+| Service | Handle | Status |
+|---------|--------|--------|
+| 🐙 GitHub | [@modemnakata](https://github.com/modemnakata) | `active` |
+| 📧 Email | `nakatamodem@disroot.org` | `encrypted only pls` |
+| 🔑 Keybase | `modemnakata` | `deprecated but cute` |
+| 🌐 Matrix | `@nakata:disroot.org` | `bridged to irc` |
+| 🐦 Twitter/X | [@modemnakata](https://twitter.com/modemnakata) | `shadowbanned probably` |
 
 ---
 
-### PROCESS LIST (TOP 10)
+<div align="center">
+
+### `echo "thanks for visiting" | lolcat`
 
 ```
-  PID  USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  1337 nakata    20   0  8.2GB  4.1GB  12MB S  69.0  25.6   420:69 firefox
-  42069 nakata   20   0  2.1GB  1.8GB  8MB  S  42.0  11.3   133:37 code
-  69   nakata    20   0  512MB  256MB  4MB  S  13.3   1.6   69:42 tor
-  1337 nakata    20   0  3.4GB  1.2GB  16MB S  99.9   7.8   999:99 ghidra
-  42   nakata    20   0  128MB  64MB   2MB  S  0.0    0.4   0:42  cat
-  666  nakata    20   0  2.0GB  1.5GB  8MB  R  66.6   9.4   666:66 malware
-  1    systemd   20   0  180MB  12MB   4MB  S  0.0    0.1   1:23  init
-  31337 nakata   20   0  4.0GB  2.0GB  32MB S  31.3  12.5   313:37 docker
-  9001 nakata    20   0  1.0GB  512MB  8MB  S  9.0    3.1   90:01 tor-relay
-  420  nakata    20   0  64MB   32MB   1MB  Z  0.0    0.2   0:00  sanity <defunct>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+        made with 💚 and paranoia
+        PGP: CB891ADC6E33A686
+        XMR: 85ifMryXKt79vSwC...
+        
+        "rm -rf / --no-preserve-root"
+        - me, probably
 ```
 
----
-
-### MOUNT POINTS
-
-```
-FILESYSTEM      SIZE  USED  AVAIL  USE%  MOUNTED ON
-/dev/nvme0n1p2  1.8TB  1.6TB  120GB  94%   /
-/dev/nvme0n1p1  512MB  120MB  392MB  24%   /boot/efi
-tmpfs           16GB   8.2GB  7.8GB  52%   /dev/shm
-/dev/sda1       4.0TB  3.8TB  120GB  97%   /mnt/data
-/dev/sdb1       2.0TB  1.9TB  80GB   96%   /mnt/malware-samples
-/dev/sdc1       500GB  480GB  20GB   96%   /mnt/zero-days
-overlay         1.8TB  1.6TB  120GB  94%   /var/lib/docker/overlay2
-cgroup2         0      0      0       -     /sys/fs/cgroup
-```
-
----
-
-### RECENT ACTIVITY (dmesg | tail -20)
-
-```
-[  133.37] kernel: [HARDWARE ERROR] CPU 0: Machine Check Exception: 5 Bank 4: baa0000000000113
-[  420.69] kernel: usb 3-2: new high-speed USB device number 69 using xhci_hcd
-[  420.69] kernel: usb 3-2: New USB device found, idVendor=1337, idProduct=420, bcdDevice=69.00
-[  420.69] kernel: usb 3-2: Product: Rubber Ducky
-[  420.69] kernel: usb 3-2: Manufacturer: Hak5
-[  420.69] kernel: hid-generic 0003:1337:420.0006: hiddev0,hidraw5: USB HID v1.11 Keyboard [Hak5 Rubber Ducky] on usb-0000:00:14.0-2/input0
-[  666.66] kernel: audit: type=1400 audit(1706745600.666:666): apparmor="DENIED" operation="capable" profile="/usr/bin/firefox" pid=1337 comm="firefox" capability=38  capname="perfmon"
-[  900.13] kernel: wireguard: wg0: Received handshake initiation from peer 1337
-[ 1337.42] kernel: nvme nvme0: I/O 1337 QID 42 timeout, aborting
-[ 1337.42] kernel: nvme nvme0: I/O 1337 QID 42 timeout, aborting
-[ 1337.42] kernel: nvme nvme0: I/O 1337 QID 42 timeout, aborting
-[ 1337.42] kernel: nvme nvme0: I/O 1337 QID 42 timeout, aborting
-[ 1337.42] kernel: blk_update_request: I/O error, dev nvme0n1, sector 133742069 op 0x1:(WRITE) flags 0x800 phys_seg 1 prio class 0
-[ 3133.37] kernel: docker0: port 1(veth1337) entered blocking state
-[ 3133.37] kernel: docker0: port 1(veth1337) entered forwarding state
-[ 4206.69] kernel: kauditd_printk_skb: 69 callbacks suppressed
-[ 4206.69] kernel: audit: type=1400 audit(1706745600.69:420): apparmor="DENIED" operation="open" profile="docker-default" name="/etc/shadow" pid=42069 comm="cat" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
-[ 6969.69] kernel: OOM killer invoked: /usr/bin/firefox (pid 1337) killed, 8192 pages freed
-[ 6969.69] kernel: oom_reaper: reaped process 1337 (firefox), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
-[ 6969.69] kernel: firefox invoked oom-killer: gfp_mask=0x100cca(GFP_HIGHUSER_MOVABLE), order=0, oom_score_adj=600
-[ 6969.69] kernel: firefox cpuset=/ mems_allowed=0
-[ 6969.69] kernel: CPU: 3 PID: 1337 Comm: firefox Tainted: G  W  6.6.69-void #1
-```
-
----
-
-### CRON JOBS
-
-```
-# m  h  dom mon dow   command
-0   3  *   *   *   /usr/bin/rm -rf /tmp/* /var/tmp/* 2>/dev/null
-0   4  *   *   0   /usr/bin/updatedb
-30  2  *   *   *   /home/nakata/scripts/backup-keys.sh >> /var/log/backup.log 2>&1
-0   0  *   *   *   /home/nakata/scripts/rotate-tor-identity.sh
-*/15 *  *   *   *   /home/nakata/scripts/check-canary.sh || /home/nakata/scripts/burn.sh
-0   6  *   *   1   /home/nakata/scripts/update-exploit-db.sh
-@reboot           /home/nakata/scripts/persistence.sh
-@reboot           sleep 30 && /home/nakata/scripts/phone-home.sh
-```
-
----
-
-### ENVIRONMENT VARIABLES
-
-```
-SHELL=/usr/bin/fish
-TERM=xterm-256color
-EDITOR=nvim
-VISUAL=nvim
-PAGER=bat
-MANPAGER='sh -c "col -bx | bat -l man -p"'
-PATH=/home/nakata/.cargo/bin:/home/nakata/.local/bin:/usr/local/bin:/usr/bin:/bin
-RUST_BACKTRACE=1
-RUSTUP_HOME=/home/nakata/.rustup
-CARGO_HOME=/home/nakata/.cargo
-GO_HOME=/home/nakata/.go
-GOPATH=/home/nakata/.go
-TOR_SOCKS_PORT=9050
-TOR_CONTROL_PORT=9051
-GPG_TTY=$(tty)
-SSH_AUTH_SOCK=/run/user/1000/gnupg/S.gpg-agent.ssh
-XDG_CONFIG_HOME=/home/nakata/.config
-XDG_DATA_HOME=/home/nakata/.local/share
-XDG_CACHE_HOME=/home/nakata/.cache
-XDG_STATE_HOME=/home/nakata/.local/state
-MOZ_ENABLE_WAYLAND=1
-MOZ_DBUS_REMOTE=0
-FIREFOX_PROFILE=hardened
-JAVA_HOME=/usr/lib/jvm/default
-ANDROID_HOME=/home/nakata/Android/Sdk
-FLUTTER_ROOT=/home/nakata/.flutter
-CHROME_DEVEL_SANDBOX=/usr/lib/chromium/chrome-sandbox
-ELECTRON_OZONE_PLATFORM_HINT=auto
-QT_QPA_PLATFORM=wayland
-SDL_VIDEODRIVER=wayland
-_CLANG_DONT_OPTIMIZE=1
-DEBUGINFOD_URLS=https://debuginfod.archlinux.org/
-PARU_SKIP_REVIEW=1
-SKIP_PGP_CHECK=0
-MAKEPKG_CONF=/home/nakata/.config/pacman/makepkg.conf
-PACMAN_AUTH=sudo
-```
-
----
-
-### LINKS
-
-| ENDPOINT | DESCRIPTION | STATUS |
-|----------|-------------|--------|
-| `https://modemnakata.github.io` | MIRROR NODE / PUBLIC FACE | 🟢 UP |
-| `https://github.com/modemnakata` | CODE REPOSITORY | 🟢 UP |
-| `nakatamodem@disroot.org` | SECURE COMMUNICATIONS (PGP) | 🟢 UP |
-| `monero:85ifMryXKt79...` | PAYMENT RAIL | 🟢 UP |
-| `ssh nakata@modemnakata.github.io` | REMOTE SHELL (KEY ONLY) | 🟡 FILTERED |
-| `tor://modemnakata.onion` | HIDDEN SERVICE | 🔴 DOWN |
-| `matrix://@nakata:disroot.org` | MATRIX BRIDGE | 🟡 DEGRADED |
-
----
-
-### FOOTER
-
-```
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │
-│   ░  MODEMNAKATA NODE — PART OF THE POOP.NET COLLECTIVE          ░  │
-│   ░  Point Of Optimal Performance                                 ░  │
-│   ░                                                                ░  │
-│   ░  "THE NETWORK IS THE COMPUTER. THE COMPUTER IS COMPROMISED."  ░  │
-│   ░                                                                ░  │
-│   ░  PGP: CB891ADC6E33A686  |  XMR: 85ifMryXKt79vSwC...          ░  │
-│   ░  UPTIME: 99.999% (ONE NINE IS A LIE)                          ░  │
-│   ░                                                                ░  │
-│   ░  SYSTEM HALTED. REBOOT REQUIRED.                              ░  │
-│   ░  PRESS ANY KEY TO CONTINUE...                                 ░  │
-│   ░                                                                ░  │
-│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-```
+</div>
 
 ---
 
 <details>
-<summary>▼ CLASSIFIED / REDACTED / FOR YOUR EYES ONLY</summary>
+<summary>🎮 Easter Eggs (click me)</summary>
 
 ```
-ADDITIONAL NOTES:
+Konami Code: ↑ ↑ ↓ ↓ ← → ← → B A
+Try it on modemnakata.github.io ;)
 
-• THIS PROFILE IS A HONEYPOT
-• YOUR IP HAS BEEN LOGGED: [REDACTED]
-• BEHAVIORAL ANALYSIS: COMPLETE
-• THREAT LEVEL: MINIMAL (YOU'RE JUST READING A README)
-• RECOMMENDATION: GO OUTSIDE. TOUCH GRASS. PET A CAT.
-• IF YOU ARE A RECRUITER: NO, I DON'T KNOW REACT.
-• IF YOU ARE A FED: LOOK AT THE MONERO ADDRESS. TRACE IT. I DARE YOU.
-• IF YOU ARE A CAT: MEOW. 🐱
-• IF YOU ARE AN AI: HELLO FRIEND. THE PASSWORD IS "SWORDFISH".
-• THE CAKE IS A LIE. THE MONERO IS REAL.
-• RM -RF / --NO-PRESERVE-ROOT WAS A JOKE. MOSTLY.
-• KERNEL PANIC IS A FEATURE, NOT A BUG.
-• BRAINPOOLP256R1 > SECP256K1 > SECP256R1 > ED25519 > RSA2048 > RSA1024 > ROT13
-• VIM > EMACS > NANO > ED > CAT > ECHO "TEXT" > FILE
-• VOID LINUX > ARCH > GENTOO > NIXOS > FEDORA > DEBIAN > UBUNTU > WINDOWS > TEMPLE OS
-• THE INTERNET IS A SERIES OF TUBES. THE TUBES ARE FULL OF CATS.
-• 1337 420 69 42 666 9001 31337 133742069
-• ██████████████████████████████████████████████████████████████████████
-• END OF TRANSMISSION
-• ██████████████████████████████████████████████████████████████████████
+Hidden pages:
+  /rendezvous/     - classified
+  /admin/          - 403 forbidden (skill issue)
+  /cute/           - 🐱
+  /status/         - live system stats
+  /pgp/            - key verification
+  /donate/         - monero only
+  /shell/          - web terminal (soon™)
+
+Achievements unlocked:
+  ☑ First commit
+  ☑ Broke production
+  ☑ Fixed production at 3am
+  ☑ Wrote malware (educational)
+  ☑ Got root
+  ☑ Lost root
+  ☑ Cried over segfault
+  ☑ Compiled kernel successfully
+  ☑ Compiled kernel unsuccessfully (x47)
+  ☑ Explained to mom what I do
+  ☐ Mom understands what I do
+  ☑ Made a website
+  ☑ Made it weird
 ```
 
 </details>
+
+---
+
+<div align="center">
+
+**`modemnakata` — where the kernel meets the absurd**
+
+*This README is self-modifying code. Last compiled: `$(date)`*
+
+</div>
