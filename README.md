@@ -223,6 +223,87 @@ Last login: $(date) from 127.0.0.1
 
 ---
 
+### `cat /home/nakata/.local/share/katawa-shoujo/gallery/index.html`
+
+```
+YAMAKU HIGH SCHOOL — STUDENT COUNCIL ARCHIVES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<div align="center">
+
+#### EMI IBARAZAKI — Track & Field Captain 🏃‍♀️💚
+
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/emi/emi_basic_happy.png" width="180" alt="Emi happy" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/emi/emi_excited_joy.png" width="180" alt="Emi excited joy" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/emi/emi_basic_grin.png" width="180" alt="Emi grin" />
+
+*Fastest thing on no legs. Runs on pure determination and lemon drops.*
+
+</div>
+
+<div align="center">
+
+#### HANAKO IKEZAWA — Library Club 📚💜
+
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/hanako/hanako_basic_smile.png" width="180" alt="Hanako smile" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/hanako/hanako_basic_bashful.png" width="180" alt="Hanako bashful" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/hanako/hanako_basic_normal.png" width="180" alt="Hanako normal" />
+
+*Fragile but not broken. The lilies bloom in adversity.*
+
+</div>
+
+<div align="center">
+
+#### LILLY SATOU — Class Rep / Tea Enjoyer ☕💛
+
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/lilly/lilly_basic_ara.png" width="180" alt="Lilly ara" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/lilly/lilly_back_smile_cas.png" width="180" alt="Lilly smile casual" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/lilly/lilly_basic_ara_paj.png" width="180" alt="Lilly pajama" />
+
+*Ara ara~ The tea is ready. Would you like some?*
+
+</div>
+
+<div align="center">
+
+#### RIN TEZUKA — Art Club / Philosopher 🎨💙
+
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/rin/rin_basic_deadpannormal.png" width="180" alt="Rin deadpan" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/rin/rin_basic_deadpandelight.png" width="180" alt="Rin delight" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/rin/rin_basic_amused.png" width="180" alt="Rin amused" />
+
+*I don't know. Do you? The feet paint better than the hands.*
+
+</div>
+
+<div align="center">
+
+#### SHIZUNE HAKAMICHI — Student Council President 💙🤟
+
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/shizu/shizune_basic_happy.png" width="180" alt="Shizune happy" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/shizu/shizune_basic_smile.png" width="180" alt="Shizune smile" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/shizu/shizune_basic_confident.png" width="180" alt="Shizune confident" />
+
+*[Signing intensifies] — Misha translates: "Wahaha~!"*
+
+</div>
+
+<div align="center">
+
+#### KENJI SETOU — Conspiracy Theorist / Neighbor 🎭🗿
+
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/kenji/kenji_basic_normal.png" width="180" alt="Kenji normal" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/kenji/kenji_basic_shock.png" width="180" alt="Kenji shock" />
+<img src="https://raw.githubusercontent.com/gcammisa/KatawaShoujo-RenPy8/main/game/sprites/kenji/kenji_basic_grin.png" width="180" alt="Kenji grin" />
+
+*The feminist conspiracy is everywhere. They're in the walls. In the pizza. In the very air we breathe.*
+
+</div>
+
+---
+
 ## 💰 Donate (Monero / XMR)
 
 Mainnet subaddress:
