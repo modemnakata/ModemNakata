@@ -26,14 +26,14 @@
 
 ---
 
-### PGP PUBLIC KEY
+### PGP 公開鍵
 
-**Key ID:** `CB891ADC6E33A686`  
-**Algorithm:** brainpoolP256r1  
-**Created:** 2026-04-14  
-**Fingerprint:** `B88A FA89 0C04 E0F5 C61C  9F69 CB89 1ADC 6E33 A686`  
+**鍵 ID:** `CB891ADC6E33A686`  
+**アルゴリズム:** brainpoolP256r1  
+**作成日:** 2026-04-14  
+**フィンガープリント:** `B88A FA89 0C04 E0F5 C61C  9F69 CB89 1ADC 6E33 A686`  
 **UID:** Nakata Modem (133742069) `<nakatamodem@disroot.org>`  
-**Subkey:** brainpoolP256r1/68848EEA0B537FB9 (encryption)
+**サブキー:** brainpoolP256r1/68848EEA0B537FB9 (暗号化用)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -55,33 +55,33 @@ yKXm0TVwBWVAW6t9Cm0=
 
 ---
 
-### DOWNLOAD KEYS
+### 鍵のダウンロード
 
-| Format | Download | Verify |
-|--------|----------|--------|
+| 形式 | ダウンロード | 検証 |
+|--------|------------|------|
 | `.asc` (ASCII-armored) | [nakatamodem.asc](https://modemnakata.github.io/nakatamodem.asc) | `gpg --import nakatamodem.asc` |
-| `.gpg` (binary) | [nakatamodem.gpg](https://modemnakata.github.io/nakatamodem.gpg) | `gpg --import nakatamodem.gpg` |
+| `.gpg` (バイナリ) | [nakatamodem.gpg](https://modemnakata.github.io/nakatamodem.gpg) | `gpg --import nakatamodem.gpg` |
 | WKD | `gpg --locate-key nakatamodem@disroot.org` | `gpg --verify` |
 
 ```bash
-# Import and verify
+# インポートと検証
 curl -sL https://modemnakata.github.io/nakatamodem.asc | gpg --import
 gpg --fingerprint CB891ADC6E33A686
-# Should show: B88A FA89 0C04 E0F5 C61C  9F69 CB89 1ADC 6E33 A686
+# 表示されるべき: B88A FA89 0C04 E0F5 C61C  9F69 CB89 1ADC 6E33 A686
 ```
 
 ---
 
-### CONTACT
+### 連絡先
 
 **Email:** [nakatamodem@disroot.org](mailto:nakatamodem@disroot.org)  
-**PGP only.** Unencrypted mail is discarded.
+**PGPのみ。** 暗号化されていないメールは破棄されます。
 
 ---
 
-### DONATE — Monero (XMR)
+### 寄付 — Monero (XMR)
 
-**Address:**
+**アドレス:**
 ```
 85ifMryXKt79vSwCojDbFGUd3wM9MrSHUDegKthugb62PNbRv914nDKZzZFS8zBKuwArQTipVgJeoGo8gcYBeZQ4F19Z8im
 ```
@@ -98,7 +98,7 @@ monero:85ifMryXKt79vSwCojDbFGUd3wM9MrSHUDegKthugb62PNbRv914nDKZzZFS8zBKuwArQTipV
 </div>
 
 ```bash
-# Verify address
+# アドレス検証
 monero-wallet-cli --address 85ifMryXKt79vSwCojDbFGUd3wM9MrSHUDegKthugb62PNbRv914nDKZzZFS8zBKuwArQTipVgJeoGo8gcYBeZQ4F19Z8im
 ```
 
