@@ -136,7 +136,7 @@ monero-wallet-cli --address 85ifMryXKt79vSwCojDbFGUd3wM9MrSHUDegKthugb62PNbRv914
 
 <div align="center">
 
-<img src="konata.avif" width="300" alt="Konata Izumi from Lucky Star" />
+<img src="konata2.avif" width="300" alt="Konata Izumi from Lucky Star" />
 
 <br>
 
