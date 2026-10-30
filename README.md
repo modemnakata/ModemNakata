@@ -104,6 +104,35 @@ monero-wallet-cli --address 85ifMryXKt79vSwCojDbFGUd3wM9MrSHUDegKthugb62PNbRv914
 
 ---
 
+### 寄付 — Bitcoin (BTC) · Litecoin (LTC) · Bitcoin Cash (BCH)
+
+| Coin | Address | URI |
+|------|---------|-----|
+| **₿ Bitcoin (BTC)** | `bc1qmuafae0tajceg83lm5tc3jy8azxtm9kc0als5a` | `bitcoin:bc1qmuafae0tajceg83lm5tc3jy8azxtm9kc0als5a` |
+| **Ł Litecoin (LTC)** | `ltc1qq4te4364pv7zm3zeymgand997vszgf5zelpqgm` | `litecoin:ltc1qq4te4364pv7zm3zeymgand997vszgf5zelpqgm` |
+| **⟠ Bitcoin Cash (BCH)** | `qzh22huwwrsagnp8l3027qaluz7k36j86ghhk89wwr` | `bitcoincash:qzh22huwwrsagnp8l3027qaluz7k36j86ghhk89wwr` |
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%"><b>₿ Bitcoin (BTC)</b><br><img src="btc_donate.avif" width="280" alt="Bitcoin QR" /></td>
+<td align="center" width="33%"><b>Ł Litecoin (LTC)</b><br><img src="ltc_donate.avif" width="280" alt="Litecoin QR" /></td>
+<td align="center" width="33%"><b>⟠ Bitcoin Cash (BCH)</b><br><img src="bch_donate.avif" width="280" alt="Bitcoin Cash QR" /></td>
+</tr>
+</table>
+
+</div>
+
+```bash
+# アドレス検証
+bitcoin-cli validateaddress bc1qmuafae0tajceg83lm5tc3jy8azxtm9kc0als5a
+litecoin-cli validateaddress ltc1qq4te4364pv7zm3zeymgand997vszgf5zelpqgm
+bitcoin-cli -chain=bitcoincash validateaddress qzh22huwwrsagnp8l3027qaluz7k36j86ghhk89wwr
+```
+
+---
+
 <div align="center">
 
 [modemnakata.github.io](https://modemnakata.github.io/) · [github.com/modemnakata](https://github.com/modemnakata)
