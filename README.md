@@ -110,31 +110,34 @@ monero-wallet-cli --address 85ifMryXKt79vSwCojDbFGUd3wM9MrSHUDegKthugb62PNbRv914
 |------|---------|-----|
 | **₿ Bitcoin (BTC)** | `bc1qmuafae0tajceg83lm5tc3jy8azxtm9kc0als5a` | `bitcoin:bc1qmuafae0tajceg83lm5tc3jy8azxtm9kc0als5a` |
 | **Ł Litecoin (LTC)** | `ltc1qq4te4364pv7zm3zeymgand997vszgf5zelpqgm` | `litecoin:ltc1qq4te4364pv7zm3zeymgand997vszgf5zelpqgm` |
-| **⟠ Bitcoin Cash (BCH)** | `qzh22huwwrsagnp8l3027qaluz7k36j86ghhk89wwr` | `bitcoincash:qzh22huwwrsagnp8l3027qaluz7k36j86ghhk89wwr` |
+| **💰 Bitcoin Cash (BCH)** | `qzh22huwwrsagnp8l3027qaluz7k36j86ghhk89wwr` | `bitcoincash:qzh22huwwrsagnp8l3027qaluz7k36j86ghhk89wwr` |
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%"><b>₿ Bitcoin (BTC)</b><br><img src="btc_donate.avif" width="280" alt="Bitcoin QR" /></td>
-<td align="center" width="33%"><b>Ł Litecoin (LTC)</b><br><img src="ltc_donate.avif" width="280" alt="Litecoin QR" /></td>
-<td align="center" width="33%"><b>⟠ Bitcoin Cash (BCH)</b><br><img src="bch_donate.avif" width="280" alt="Bitcoin Cash QR" /></td>
+<td align="center" width="33%"><b>₿ Bitcoin (BTC)</b><br><img src="https://api.qrserver.com/v1/create-qr-code/?size=280x280&data=bitcoin%3Abc1qmuafae0tajceg83lm5tc3jy8azxtm9kc0als5a&color=f7931a&bgcolor=0d0d1a&qzone=1&margin=2" width="280" alt="Bitcoin QR" /></td>
+<td align="center" width="33%"><b>Ł Litecoin (LTC)</b><br><img src="https://api.qrserver.com/v1/create-qr-code/?size=280x280&data=litecoin%3Altc1qq4te4364pv7zm3zeymgand997vszgf5zelpqgm&color=00d4ff&bgcolor=0a0a15&qzone=1&margin=2" width="280" alt="Litecoin QR" /></td>
+<td align="center" width="33%"><b>💰 Bitcoin Cash (BCH)</b><br><img src="https://api.qrserver.com/v1/create-qr-code/?size=280x280&data=bitcoincash%3Aqzh22huwwrsagnp8l3027qaluz7k36j86ghhk89wwr&color=00ff88&bgcolor=051005&qzone=1&margin=2" width="280" alt="Bitcoin Cash QR" /></td>
 </tr>
 </table>
 
 </div>
-
-```bash
-# アドレス検証
-bitcoin-cli validateaddress bc1qmuafae0tajceg83lm5tc3jy8azxtm9kc0als5a
-litecoin-cli validateaddress ltc1qq4te4364pv7zm3zeymgand997vszgf5zelpqgm
-bitcoin-cli -chain=bitcoincash validateaddress qzh22huwwrsagnp8l3027qaluz7k36j86ghhk89wwr
-```
 
 ---
 
 <div align="center">
 
 [modemnakata.github.io](https://modemnakata.github.io/) · [github.com/modemnakata](https://github.com/modemnakata)
+
+</div>
+
+---
+
+<div align="center">
+
+![Konata Izumi](https://api.unorouter.com/v1/media/AAAAAGrt-SFodHRwczovL3N0YXRpYy53aWtpYS5ub2Nvb2tpZS5uZXQvbHVja3lzdGFyL2ltYWdlcy8xLzFmL0tvbmF0YV9JenVtaS5wbmcvcmV2aXNpb24vbGF0ZXN0L3NjYWxlLXRvLXdpZHRoLWRvd24vNDAwP2Zvcm1hdD1wbmc.TsA_aDJpdqiQoMKH2MDRTVIE_DmfBez2B347vQTBDYk)
+
+*★ Konata Izumi from Lucky Star ★*
 
 </div>
